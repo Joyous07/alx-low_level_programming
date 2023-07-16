@@ -13,7 +13,7 @@ int main(void)
 	int alphabet;
 
 	for (n = 0; n < 10; n++)
-		putchar((n % 10)+ '0');
+		putchar((n % 10) + '0');
 	for (alphabet = 'a'; alphabet <= 'f'; alphabet++)
 		putchar(alphabet);
 	putchar('\n');
