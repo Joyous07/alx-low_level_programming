@@ -5,7 +5,7 @@
 /**
  * main - function that print alphabets in a reverse order
  *
- * Retrun: Always 0 (success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
@@ -13,7 +13,6 @@ int main(void)
 
 	for (alphabet = 'z'; alphabet >= 'a'; alphabet--)
 		putchar(alphabet);
-	
 	putchar('\n');
 	return (0);
 }
