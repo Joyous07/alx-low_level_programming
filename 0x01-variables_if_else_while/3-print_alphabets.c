@@ -5,7 +5,7 @@
 /**
  * main - function that return both lowercase and uppercase alphabet
  *
- * Return; Always 0 (success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
