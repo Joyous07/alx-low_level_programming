@@ -1,10 +1,9 @@
 #include "main.h"
-#include <unistd.h>
 
 /**
- * print_alphabet - Entry point
+ * main - print alphabet
  *
- * Return:0
+ * Return: Always 0.
  */
 void print_alphabet(void)
 {
@@ -17,5 +16,5 @@ void print_alphabet(void)
 		
 	}
 	_putchar('\n');
-
-}	
+	return (0);
+}
