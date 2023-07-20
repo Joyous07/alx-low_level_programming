@@ -29,4 +29,4 @@ int main(void)
 		k = next;
 	}
 	return (0);
-}	
+}
