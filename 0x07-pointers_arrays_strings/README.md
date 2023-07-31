@@ -1,0 +1,1 @@
+This directory contians 0x07-Even_pointers_arrays_strings
